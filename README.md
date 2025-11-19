@@ -3,6 +3,8 @@
 
 🔥The app stores data in Firestore, supports PDF report generation, and is deployed on Firebase Hosting.  
 
+🔍Only a few selected **code snippets** from the app are included here to give a **glimpse** of the implementation and project structure.  
+
 # Features  
 📂 Managing projects  
 ⏱️ Adding workhours and kilometers  
